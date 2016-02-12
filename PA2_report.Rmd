@@ -1,0 +1,17 @@
+---
+title: "Reproducible Research: Peer Assessment 2"
+output: 
+    html_document:
+        keep_md: true
+---
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(
+    fig.width=6, 
+    fig.height=4, 
+    fig.path='figure/',
+    echo=TRUE, 
+    warning=FALSE, 
+    message=FALSE
+)
+```
